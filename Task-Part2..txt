@@ -1,0 +1,519 @@
+Task started.
+---------------------------------
+* Node number 1 *
+root
+Lvl: 0, #1
++———+———+———+
+| 3 | 5 | 2 |
++———+———+———+
+| 6 | 1 | 7 |
++———+———+———+
+| _ | 8 | 4 |
++———+———+———+  🪵
+
+* Algorithm: BFS *
+Timeout reached. Stopping the task...
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+Task started.
+---------------------------------
+* Node number 2 *
+root
+Lvl: 0, #2
++———+———+———+
+| 6 | 5 | 1 |
++———+———+———+
+| 4 | 8 | 2 |
++———+———+———+
+| _ | 3 | 7 |
++———+———+———+  🪵
+
+* Algorithm: BFS *
+
+Execution time in seconds: 190.630569 
+
+/////Goal Path/////
+
+Total nodes generated: 57958
+Path length: 20
+Path: DOWN, DOWN, LEFT, LEFT, UP, RIGHT, UP, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 3 *
+root
+Lvl: 0, #3
++———+———+———+
+| 7 | 5 | 2 |
++———+———+———+
+| 6 | 3 | 1 |
++———+———+———+
+| 4 | 8 | _ |
++———+———+———+  🪵
+
+* Algorithm: BFS *
+Puzzle is not Solvable!
+Task started.
+---------------------------------
+* Node number 4 *
+root
+Lvl: 0, #4
++———+———+———+
+| 8 | 6 | 7 |
++———+———+———+
+| 2 | 5 | 4 |
++———+———+———+
+| 3 | _ | 1 |
++———+———+———+  🪵
+
+* Algorithm: BFS *
+Timeout reached. Stopping the task...
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+Task started.
+---------------------------------
+* Node number 5 *
+root
+Lvl: 0, #5
++———+———+———+
+| 4 | 1 | 3 |
++———+———+———+
+| 2 | _ | 6 |
++———+———+———+
+| 7 | 5 | 8 |
++———+———+———+  🪵
+
+* Algorithm: BFS *
+
+Execution time in seconds: 0.003376 
+
+/////Goal Path/////
+
+Total nodes generated: 111
+Path length: 6
+Path: RIGHT, DOWN, LEFT, UP, UP, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 1 *
+root
+Lvl: 0, #1
++———+———+———+
+| 3 | 5 | 2 |
++———+———+———+
+| 6 | 1 | 7 |
++———+———+———+
+| _ | 8 | 4 |
++———+———+———+  🪵
+
+* Algorithm: IDS *
+
+Execution time in seconds: 349.774761 
+
+/////Goal Path/////
+
+Total nodes generated: 56396
+Path length: 28
+Path: DOWN, DOWN, LEFT, UP, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, DOWN, LEFT, UP, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 2 *
+root
+Lvl: 0, #2
++———+———+———+
+| 6 | 5 | 1 |
++———+———+———+
+| 4 | 8 | 2 |
++———+———+———+
+| _ | 3 | 7 |
++———+———+———+  🪵
+
+* Algorithm: IDS *
+
+Execution time in seconds: 74.175453 
+
+/////Goal Path/////
+
+Total nodes generated: 21812
+Path length: 24
+Path: DOWN, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, DOWN, LEFT, UP, UP, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, DOWN, DOWN, LEFT, UP, RIGHT, UP, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 3 *
+root
+Lvl: 0, #3
++———+———+———+
+| 7 | 5 | 2 |
++———+———+———+
+| 6 | 3 | 1 |
++———+———+———+
+| 4 | 8 | _ |
++———+———+———+  🪵
+
+* Algorithm: IDS *
+Puzzle is not Solvable!
+Task started.
+---------------------------------
+* Node number 4 *
+root
+Lvl: 0, #4
++———+———+———+
+| 8 | 6 | 7 |
++———+———+———+
+| 2 | 5 | 4 |
++———+———+———+
+| 3 | _ | 1 |
++———+———+———+  🪵
+
+* Algorithm: IDS *
+Timeout reached. Stopping the task...
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+Task started.
+---------------------------------
+* Node number 5 *
+root
+Lvl: 0, #5
++———+———+———+
+| 4 | 1 | 3 |
++———+———+———+
+| 2 | _ | 6 |
++———+———+———+
+| 7 | 5 | 8 |
++———+———+———+  🪵
+
+* Algorithm: IDS *
+
+Execution time in seconds: 0.002726 
+
+/////Goal Path/////
+
+Total nodes generated: 54
+Path length: 6
+Path: RIGHT, DOWN, LEFT, UP, UP, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 1 *
+root
+Lvl: 0, #1
++———+———+———+
+| 3 | 5 | 2 |
++———+———+———+
+| 6 | 1 | 7 |
++———+———+———+
+| _ | 8 | 4 |
++———+———+———+  🪵
+
+* Algorithm: A*, h1(n) *
+
+Execution time in seconds: 100.975405 
+
+/////Goal Path/////
+
+Total nodes generated: 28846
+Path length: 24
+Path: DOWN, DOWN, LEFT, UP, UP, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 2 *
+root
+Lvl: 0, #2
++———+———+———+
+| 6 | 5 | 1 |
++———+———+———+
+| 4 | 8 | 2 |
++———+———+———+
+| _ | 3 | 7 |
++———+———+———+  🪵
+
+* Algorithm: A*, h1(n) *
+
+Execution time in seconds: 2.788345 
+
+/////Goal Path/////
+
+Total nodes generated: 4642
+Path length: 20
+Path: DOWN, DOWN, LEFT, LEFT, UP, RIGHT, UP, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 3 *
+root
+Lvl: 0, #3
++———+———+———+
+| 7 | 5 | 2 |
++———+———+———+
+| 6 | 3 | 1 |
++———+———+———+
+| 4 | 8 | _ |
++———+———+———+  🪵
+
+* Algorithm: A*, h1(n) *
+Puzzle is not Solvable!
+Task started.
+---------------------------------
+* Node number 4 *
+root
+Lvl: 0, #4
++———+———+———+
+| 8 | 6 | 7 |
++———+———+———+
+| 2 | 5 | 4 |
++———+———+———+
+| 3 | _ | 1 |
++———+———+———+  🪵
+
+* Algorithm: A*, h1(n) *
+Timeout reached. Stopping the task...
+Total nodes generated: <<??>>
+Total time taken: >15 min
+Path length: Timed out.
+Path: Timed out.
+Task started.
+---------------------------------
+* Node number 5 *
+root
+Lvl: 0, #5
++———+———+———+
+| 4 | 1 | 3 |
++———+———+———+
+| 2 | _ | 6 |
++———+———+———+
+| 7 | 5 | 8 |
++———+———+———+  🪵
+
+* Algorithm: A*, h1(n) *
+
+Execution time in seconds: 0.001604 
+
+/////Goal Path/////
+
+Total nodes generated: 20
+Path length: 6
+Path: RIGHT, DOWN, LEFT, UP, UP, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 1 *
+root
+Lvl: 0, #1
++———+———+———+
+| 3 | 5 | 2 |
++———+———+———+
+| 6 | 1 | 7 |
++———+———+———+
+| _ | 8 | 4 |
++———+———+———+  🪵
+
+* Algorithm: A*, h2(n) *
+
+Execution time in seconds: 0.729903 
+
+/////Goal Path/////
+
+Total nodes generated: 2582
+Path length: 24
+Path: DOWN, DOWN, LEFT, UP, UP, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 2 *
+root
+Lvl: 0, #2
++———+———+———+
+| 6 | 5 | 1 |
++———+———+———+
+| 4 | 8 | 2 |
++———+———+———+
+| _ | 3 | 7 |
++———+———+———+  🪵
+
+* Algorithm: A*, h2(n) *
+
+Execution time in seconds: 0.012555 
+
+/////Goal Path/////
+
+Total nodes generated: 241
+Path length: 20
+Path: DOWN, DOWN, LEFT, LEFT, UP, RIGHT, UP, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 3 *
+root
+Lvl: 0, #3
++———+———+———+
+| 7 | 5 | 2 |
++———+———+———+
+| 6 | 3 | 1 |
++———+———+———+
+| 4 | 8 | _ |
++———+———+———+  🪵
+
+* Algorithm: A*, h2(n) *
+Puzzle is not Solvable!
+Task started.
+---------------------------------
+* Node number 4 *
+root
+Lvl: 0, #4
++———+———+———+
+| 8 | 6 | 7 |
++———+———+———+
+| 2 | 5 | 4 |
++———+———+———+
+| 3 | _ | 1 |
++———+———+———+  🪵
+
+* Algorithm: A*, h2(n) *
+
+Execution time in seconds: 85.659768 
+
+/////Goal Path/////
+
+Total nodes generated: 29120
+Path length: 31
+Path: RIGHT, DOWN, LEFT, UP, LEFT, DOWN, DOWN, RIGHT, UP, RIGHT, UP, LEFT, LEFT, DOWN, DOWN, RIGHT, RIGHT, UP, UP, LEFT, LEFT, DOWN, RIGHT, DOWN, RIGHT, UP, UP, LEFT, DOWN, LEFT, UP, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 5 *
+root
+Lvl: 0, #5
++———+———+———+
+| 4 | 1 | 3 |
++———+———+———+
+| 2 | _ | 6 |
++———+———+———+
+| 7 | 5 | 8 |
++———+———+———+  🪵
+
+* Algorithm: A*, h2(n) *
+
+Execution time in seconds: 0.002438 
+
+/////Goal Path/////
+
+Total nodes generated: 18
+Path length: 6
+Path: RIGHT, DOWN, LEFT, UP, UP, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 1 *
+root
+Lvl: 0, #1
++———+———+———+
+| 3 | 5 | 2 |
++———+———+———+
+| 6 | 1 | 7 |
++———+———+———+
+| _ | 8 | 4 |
++———+———+———+  🪵
+
+* Algorithm: A*, h3(n) *
+
+Execution time in seconds: 2.697501 
+
+/////Goal Path/////
+
+Total nodes generated: 5129
+Path length: 24
+Path: DOWN, DOWN, LEFT, UP, UP, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 2 *
+root
+Lvl: 0, #2
++———+———+———+
+| 6 | 5 | 1 |
++———+———+———+
+| 4 | 8 | 2 |
++———+———+———+
+| _ | 3 | 7 |
++———+———+———+  🪵
+
+* Algorithm: A*, h3(n) *
+
+Execution time in seconds: 0.044220 
+
+/////Goal Path/////
+
+Total nodes generated: 552
+Path length: 20
+Path: DOWN, DOWN, LEFT, LEFT, UP, RIGHT, UP, LEFT, DOWN, RIGHT, RIGHT, DOWN, LEFT, LEFT, UP, RIGHT, RIGHT, UP, LEFT, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 3 *
+root
+Lvl: 0, #3
++———+———+———+
+| 7 | 5 | 2 |
++———+———+———+
+| 6 | 3 | 1 |
++———+———+———+
+| 4 | 8 | _ |
++———+———+———+  🪵
+
+* Algorithm: A*, h3(n) *
+Puzzle is not Solvable!
+Task started.
+---------------------------------
+* Node number 4 *
+root
+Lvl: 0, #4
++———+———+———+
+| 8 | 6 | 7 |
++———+———+———+
+| 2 | 5 | 4 |
++———+———+———+
+| 3 | _ | 1 |
++———+———+———+  🪵
+
+* Algorithm: A*, h3(n) *
+
+Execution time in seconds: 520.661906 
+
+/////Goal Path/////
+
+Total nodes generated: 71119
+Path length: 31
+Path: LEFT, DOWN, DOWN, RIGHT, RIGHT, UP, UP, LEFT, LEFT, DOWN, RIGHT, RIGHT, UP, LEFT, LEFT, DOWN, RIGHT, DOWN, LEFT, UP, RIGHT, DOWN, RIGHT, UP, UP, LEFT, LEFT, DOWN, RIGHT, UP, LEFT, GOAL!!✅
+****
+Task started.
+---------------------------------
+* Node number 5 *
+root
+Lvl: 0, #5
++———+———+———+
+| 4 | 1 | 3 |
++———+———+———+
+| 2 | _ | 6 |
++———+———+———+
+| 7 | 5 | 8 |
++———+———+———+  🪵
+
+* Algorithm: A*, h3(n) *
+
+Execution time in seconds: 0.001942 
+
+/////Goal Path/////
+
+Total nodes generated: 18
+Path length: 6
+Path: RIGHT, DOWN, LEFT, UP, UP, LEFT, GOAL!!✅
+****
