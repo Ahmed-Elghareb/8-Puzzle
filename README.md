@@ -7,7 +7,10 @@ The _.txt_ files in part 2 and 3 are Puzzle samples, while the files with algori
 # Sample Output 
 The algorithms print results sarting from root, and step by step, till the solution is found.
 
-A sample: \\
+
+### A sample: 
+```
+
 ------------------BFS------------------\\
 root
 Lvl: 0, #1
@@ -58,3 +61,6 @@ Lvl: 20, #4641
 +———+———+———+
 | 7 | 8 | _ |
 +———+———+———+  ✅
+
+
+```
